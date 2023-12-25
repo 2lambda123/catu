@@ -10,7 +10,7 @@ require (
 	github.com/gookit/event v1.0.6
 	github.com/gosimple/slug v1.12.0
 	github.com/joho/godotenv v1.4.0
-	github.com/labstack/echo/v4 v4.8.0
+	github.com/labstack/echo/v4 v4.9.0
 	github.com/leekchan/accounting v1.0.0
 	github.com/microcosm-cc/bluemonday v1.0.20
 	github.com/pkg/errors v0.9.1
